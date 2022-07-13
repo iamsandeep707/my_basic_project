@@ -1,1 +1,1 @@
-# my_basic_project
+# my_basic_project on git basics
